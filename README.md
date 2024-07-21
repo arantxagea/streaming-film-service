@@ -124,7 +124,7 @@ French movies are more concentrated in the genres: Fantasy, Animation, Musical a
 ![](<images/boxen plot nonfrench genre and rating.png>)
 
 
-[Boxenplots]https://towardsdatascience.com/letter-value-plot-the-easy-to-understand-boxplot-for-large-datasets-12d6c1279c97 have been generated in order to explain in an exploratory way the distribution of genres according two KPIs, timeline and runtime. 
+[Boxenplots](https://towardsdatascience.com/letter-value-plot-the-easy-to-understand-boxplot-for-large-datasets-12d6c1279c97) have been generated in order to explain in an exploratory way the distribution of genres according two KPIs, timeline and runtime. 
 Despite it has been asked to investigate about the combination of genres in the French movies, it 
 has been considered that by comparing them with the rest of the countries would enrich the 
 results.
