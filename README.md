@@ -117,7 +117,7 @@ Non French movies are more concentrated in the genres: War, Sci-Fi, Animation an
 French movies are more concentrated in the genres: Fantasy, Animation, Musical and Western
 
 ### Distribution of films by genres in boxenplots
-![](<boxen plot genre and rating.png>)
+![](<images/boxen plot genre and rating.png>)
 ![](<images/boxen plot genre and year.png>)
 ![](<images/boxen plot french film genre and year .png>)
 ![](<images/boxen plot french film genre and rating.png>)
